@@ -1,11 +1,7 @@
-#headerBackground{
-
-	z-index: -1;
+.jumbotron{
+	background-color: #63AFAE;
 }
-
-#policeImage{
-
-	width: 25%;
-
-
+#title{
+	color: white;
+	text-align: center;
 }
